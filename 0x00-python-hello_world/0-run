@@ -1,3 +1,2 @@
 #!/bin/bash
-python 3 $PYFILE
-
+python 2.8 $PYFILE
